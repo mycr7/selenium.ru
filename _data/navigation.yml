@@ -1,39 +1,49 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Что такое Selenium?
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
-  url: "#"
+- title: Новости
+  url: "/news/"
   side: left
-  dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
 
-- title: Blog
+- title: Статьи
+  url: "/articles/"
+  side: left
+
+- title: Блог
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+
+#- title: Документация
+#  url: "/docs/"
+#  side: left
+
+- title: Обучение
+  url: "/trainings/"
+  side: left
+
+- title: Консультации
+  url: "/consulting/"
+  side: left
+
+- title: Форум
+  url: "http://software-testing.ru/forum/index.php?/forum/129-selenium-functional-testing/"
+  side: left
 
 #
 #   Navigation to the right › side: right
 #
-- title: "Info"
-  url: "/info/"
-  side: right
+#- title: "Info"
+#  url: "/info/"
+#  side: right
 
-- title: "Search"
+- title: Поиск
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right
