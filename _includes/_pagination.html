@@ -6,8 +6,10 @@
 *
 {% endcomment %}
 
-
+{{ paginator.posts.size }}
 {% for post in paginator.posts %}
+{{ post.categories }}
+{% if post.categories contains include.category %}
   <div class="row">
     <div class="small-12 columns b60">
       <p class="subheadline"><span class="subheader">{% if post.categories %}{{ post.categories | join: ' &middot; ' }}{% endif %}</span> – {% if post.subheadline %}{{ post.subheadline }}{% endif %}</p>
@@ -21,6 +23,7 @@
       </p>
     </div><!-- /.small-12.columns -->
   </div><!-- /.row -->
+{% endif %}
 {% endfor %}
 
 
@@ -39,4 +42,3 @@
     <a class="radius button small" href="{{ site.url }}/blog/page{{ paginator.next_page }}/" title="{{ site.data.language.next_posts }}">{{ site.data.language.next }} &raquo;</a>
     {% endif %}
   </nav>
-

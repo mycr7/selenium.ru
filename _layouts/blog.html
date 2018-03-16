@@ -4,9 +4,10 @@ format: blog-index
 # Don't index these pages dear Google.
 noindex: true
 ---
+{{ page.category }}
 <div class="row">
 	<div class="medium-8 columns t30">
-		{% include _pagination.html %}
+		{% include _pagination.html category=page.category %}
 	</div><!-- /.medium-7.columns -->
 
 
