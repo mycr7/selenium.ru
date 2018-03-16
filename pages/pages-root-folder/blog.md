@@ -2,6 +2,8 @@
 layout: blog
 title: "Блог"
 teaser: "This is the Blog Template."
-category: blog
-permalink: /blog.html
+permalink: /blog/
+pagination:
+  enabled: true
+  category: blog
 ---
