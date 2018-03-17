@@ -1,9 +1,8 @@
 ---
 layout: blog
-title: "Новости"
-teaser: "This is the Blog Template."
-permalink: /news/
+title: Новости
 pagination:
   enabled: true
-  category: news
+  collection: news
+permalink: /news/
 ---

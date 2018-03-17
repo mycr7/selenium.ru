@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: "Блог"
+title: Блог
 teaser: "This is the Blog Template."
 permalink: /blog/
 pagination:
   enabled: true
-  category: blog
+  collection: blog
 ---

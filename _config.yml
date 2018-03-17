@@ -63,11 +63,24 @@ exclude:
     - INSTALL.md
 
 
+collections:
+  news:
+    output: true
+    permalink: /news/:path/
+    hr_name: Новости
+  blog:
+    output: true
+    permalink: /blog/:path/
+  articles:
+    output: true
+    permalink: /articles/:path/
+
+
 pagination:
   enabled: true
-  per_page: 2
-  permalink: '/page/:num/'
-  title: ' - page :num'
+  per_page: 5
+  permalink: '/:num/'
+  title: ':title | :num of :max'
   limit: 0
   sort_field: 'date'
   sort_reverse: true

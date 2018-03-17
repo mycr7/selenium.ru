@@ -1,9 +1,8 @@
 ---
 layout: blog
-title: "Статьи"
-teaser: "This is the Blog Template."
-permalink: /articles/
+title: Статьи
 pagination:
   enabled: true
-  category: articles
+  collection: articles
+permalink: /articles/
 ---
