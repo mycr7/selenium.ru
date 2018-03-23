@@ -5,21 +5,13 @@ joomla_id: 192
 joomla_url: firefox-55-and-selenium-ide-renovation
 date: 2017-08-25 10:32:53.000000000 +03:00
 author: Алексей Баранцев
-excerpt: "<p><img src=\"images/news/deconstruction.jpg\" alt=\"\" /></p>\r\n<p>Для
-  пользователей Selenium IDE наступили трудные времена -- он не работает в Firefox
-  55 и новее...</p>\r\n<p><strong>Что делать?</strong></p>\r\n<p>Установить <a href=\"https://www.mozilla.org/en-US/firefox/organizations/faq/\"
-  rel=\"alternate\">Firefox ESR 52</a>, в этой версии Selenium IDE пока работает.
-  Extended Support Release (ESR) -- это специальная релизная ветвь с редкими обновлениями
-  для консервативных пользователей. Версия 52 будет существовать в этой ветви до 6
-  марта 2018 года.</p>\r\n<p>К сожалению, даже эта версия не может установить Selenium
-  IDE с <a href=\"https://addons.mozilla.org/ru/firefox/addon/selenium-ide/\" rel=\"alternate\">официальной
-  страницы</a> (написано, что она устаревшая), но зато можно пройти по <a href=\"https://addons.mozilla.org/firefox/downloads/latest/selenium-ide/addon-2079-latest.xpi\"
-  rel=\"alternate\">прямой ссылке на файл дополнения</a> (она ведет на тот же самый
-  официальный сайт, никаких подделок), и загруженное расширение успешно установится.</p>\r\n<p><strong>Почему
-  так получилось?</strong></p>"
+image:
+  title: /images/news/deconstruction.jpg
+  thumb: /images/news/deconstruction.jpg
+teaser: "Для пользователей Selenium IDE наступили трудные времена -- он не работает в Firefox
+  55 и новее... Что делать? Установить Firefox ESR 52, в этой версии Selenium IDE пока работает."
 category: Новости
 ---
-<p><img src="images/news/deconstruction.jpg" alt="" /></p>
 <p>Для пользователей Selenium IDE наступили трудные времена -- он не работает в Firefox 55 и новее...</p>
 <p><strong>Что делать?</strong></p>
 <p>Установить <a href="https://www.mozilla.org/en-US/firefox/organizations/faq/" rel="alternate">Firefox ESR 52</a>, в этой версии Selenium IDE пока работает. Extended Support Release (ESR) -- это специальная релизная ветвь с редкими обновлениями для консервативных пользователей. Версия 52 будет существовать в этой ветви до 6 марта 2018 года.</p>
