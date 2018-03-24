@@ -1,0 +1,21 @@
+{% comment %}
+*
+*   This include lets you loop through a collection to list
+*   all entries in that collection.
+*
+*   If you set »published: false« in front matter of a collection page
+*   the page gots filtered out via unless
+*
+*   Example: {% include list-recent entries=5 %}
+*
+{% endcomment %}
+
+<ul class="side-nav">
+  {% assign pages = site.documents | sort: 'date' | reverse %}
+  {% for page in pages limit:include.entries %}
+    {% unless page.published == false %}
+    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+    {% endunless %}
+  {% endfor %}
+  <li>&nbsp;</li>
+</ul>
