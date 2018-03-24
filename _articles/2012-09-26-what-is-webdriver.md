@@ -4,18 +4,8 @@ title: Что такое Selenium WebDriver?
 joomla_id: 63
 joomla_url: what-is-webdriver
 date: 2012-09-26 06:23:53.000000000 +04:00
-author: Super User
-excerpt: |-
-  <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: 21.75px;"><img class="caption" src="http://software-testing.ru/images/stories/library/barancev/selenium/logo-selenium.png" border="0" width="150" height="136" style="float: left;" />Автор: </span><a href="about/authors/9-barancev" target="_blank" style="margin: 0px; padding: 0px; color: #095197; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: 21.75px;">Алексей Баранцев</a></p>
-  <p>Эта статья является продолжением более общей статьи <a href="articles/62-what-is-selenium.html">"Что такое Selenium?"</a>, в которой объясняется, какое положение занимает Selenium WebDriver среди других инструментов семейства Selenium.</p>
-  <p>Здесь я постараюсь рассказать более подробно о том, что такое Selenium WebDriver, и почему его бессмысленно сравнивать с TestComplete, QuickTest Pro и другими инструментами автоматизации тестирования. И дело не только в том, что Selenium WebDriver бесплатный и открытый – его столь же бессмысленно сравнивать с другими бесплатными инструментами, такими как Sahi или Robot Framework.</p>
-  <p>Почему?</p>
-  <p>Потому что <strong>Selenium WebDriver – это не инструмент для автоматизации тестирования</strong>.</p>
-  <p>А что же это такое?</p>
-  <p>На этот вопрос можно дать несколько разных ответов, сначала я дам короткие ответы, а потом – более подробные.</p>
-  <p>Кроме того, я объясню, почему Selenium WebDriver имеет такой убогий и неудобный в использовании интерфейс (набор команд), почему он не генерирует красивые отчёты и почему несмотря на всё это он настолько популярен :)</p>
-  <p>На всякий случай оговорюсь, что хотя в этой статье речь идёт про WebDriver, многие аргументы справедливы и в отношении Selenium RC, но я не буду ничего говорить специально про эту устаревшую версию, потому что её место – на свалке истории.</p>
-  <h2><strong>Итак, что такое Selenium WebDriver?</strong></h2>
+author: Алексей Баранцев
+teaser: Эта статья является продолжением более общей статьи "Что такое Selenium?", в которой объясняется, какое положение занимает Selenium WebDriver среди других инструментов семейства Selenium. Здесь я постараюсь рассказать более подробно о том, что такое Selenium WebDriver, и почему его бессмысленно сравнивать с TestComplete, QuickTest Pro и другими инструментами автоматизации тестирования. И дело не только в том, что Selenium WebDriver бесплатный и открытый – его столь же бессмысленно сравнивать с другими бесплатными инструментами, такими как Sahi или Robot Framework.
 category: Статьи
 ---
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: 21.75px;"><img class="caption" src="http://software-testing.ru/images/stories/library/barancev/selenium/logo-selenium.png" border="0" width="150" height="136" style="float: left;" />Автор: </span><a href="about/authors/9-barancev" target="_blank" style="margin: 0px; padding: 0px; color: #095197; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: 21.75px;">Алексей Баранцев</a></p>
