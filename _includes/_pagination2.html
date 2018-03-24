@@ -11,23 +11,7 @@
   {% for post in paginator.posts %}
     <div class="row">
       <div class="small-12 columns b60">
-        <div><span class="subheader" style="padding: 2px 5px; background-color: #eee">{{ post.date | date: "%e" }}
-          {% assign m = post.date | date: "%-m" %}
-          {% case m %}
-{% when '1' %}января
-{% when '2' %}февраля
-{% when '3' %}марта
-{% when '4' %}апреля
-{% when '5' %}мая
-{% when '6' %}июня
-{% when '7' %}июля
-{% when '8' %}августа
-{% when '9' %}сентября
-{% when '10' %}октября
-{% when '11' %}ноября
-{% when '12' %}декабря
-{% endcase %}
-          {{ post.date | date: "%Y" }}</span></div>
+        <div><span class="date">{% include date date=post.date %}</span></div>
         <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
         <div>
           <div>{% if post.image.thumb %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.title escape_once }}"><img src="{{ site.url }}{{ post.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ post.title escape_once }}"></a>{% endif %}</div>
