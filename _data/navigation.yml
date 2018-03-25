@@ -25,9 +25,9 @@
   url: "/trainings/"
   side: left
 
-- title: Консультации
-  url: "/consulting/"
-  side: left
+#- title: Консультации
+#  url: "/consulting/"
+#  side: left
 
 - title: Форум
   url: "http://software-testing.ru/forum/index.php?/forum/129-selenium-functional-testing/"
