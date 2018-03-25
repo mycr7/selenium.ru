@@ -32,14 +32,14 @@
   {% if paginator.total_pages > 1 %}
   <ul class="pager">
     {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Более старые</a>
+    <li class="previous">
+        <a title="Более старые" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;</a>
     </li>
     {% endif %}
-    Страница {{page.pagination_info.curr_page}} из {{page.pagination_info.total_pages}}
+    <li>{% include _pagerange.html %}</li>
     {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Более новые &rarr;</a>
+    <li class="next">
+        <a title="Более новые" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&rarr;</a>
     </li>
     {% endif %}
   </ul>

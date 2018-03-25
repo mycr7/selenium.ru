@@ -1,0 +1,8 @@
+{% assign pre_pages = paginator.page | minus: 1 %}
+{% assign pre_posts = pre_pages | times: paginator.per_page %}
+{% assign end = paginator.total_posts | minus: pre_posts %}
+{% assign start = end | minus: paginator.per_page | plus: 1 %}
+{% if start < 1 %}
+  {% assign start = 1 %}
+{% endif %}
+{{ start }} &ndash; {{ end }}

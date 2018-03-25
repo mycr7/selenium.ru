@@ -82,7 +82,7 @@ pagination:
   enabled: true
   per_page: 5
   permalink: '/:num/'
-  title: ':title | :num of :max'
+  title: ':title | Страница :num из :max'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
