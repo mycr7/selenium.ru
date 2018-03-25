@@ -24,7 +24,7 @@ format: post
 
 				<span itemprop="name">
 					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-					<div><span class="date">{% include date date=page.date %}</span></div>
+					{% if page.date %}<div class="date"><time class="icon-calendar pr20" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{% include date date=page.date %}</time></div>{% endif %}
 					<h1>{{ page.title }}</h1>
 				</span>
 			</header>

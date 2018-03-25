@@ -11,7 +11,7 @@
   {% for post in paginator.posts %}
     <div class="row">
       <div class="small-12 columns b60">
-        <div><span class="date">{% include date date=post.date %}</span></div>
+        <div class="date"><time class="icon-calendar pr20" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{% include date date=post.date %}</time></div>
         <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
         <div>
           <div>{% if post.image.thumb %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.title escape_once }}"><img src="{{ site.url }}{{ post.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ post.title escape_once }}"></a>{% endif %}</div>
