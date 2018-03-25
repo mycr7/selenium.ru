@@ -135,6 +135,7 @@ div.date { color: $grey-5 }
 
 ul.pager { text-align: center; list-style: none; }
 ul.pager li { display: inline-block }
+ul.pager.p2 li { display: block }
 ul.pager li.next, ul.pager li.previous { border: 1px solid black; padding: 0 10px; margin: 5px; }
 
 

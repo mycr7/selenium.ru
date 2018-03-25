@@ -12,18 +12,21 @@
 				<time class="icon-calendar pr20" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{% include date date=page.date %}</time>
 				{% endif %}
 
-				{% if page.categories %}<span class="icon-archive pr20"> {{ page.categories | join: ' · ' | upcase }}{% endif %}</span>
+				{% if page.collection %}
+					{% assign this_coll = site.collections | where:'label',page.collection | first %}
+				  <span class="icon-archive pr20">&nbsp;<a href="{{ site.url }}/{{page.collection}}/archive/">{{ this_coll.hr_name | upcase }}</a></span>
+				{% endif %}
 				<br />
 				<span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}</span>
 			</p>
 
-			<div id="post-nav" class="row">
+      <ul class="pager">
 				{% if page.previous.url %}
-				<div class="small-5 columns"><a class="button small radius prev" href="{{ site.url }}{{page.previous.url}}">&laquo; {{page.previous.title}}</a></div><!-- /.small-4.columns -->
+				<li><a href="{{ site.url }}{{page.previous.url}}">&larr; {{page.previous.title}}</a></li>
 				{% endif %}
-				<div class="small-2 columns text-center"><a class="radius button small" href="{{ site.url }}/blog/archive/" title="Blog {{ site.data.language.archive }}">{{ site.data.language.archive }}</a></div><!-- /.small-4.columns -->
+				<li>&nbsp;|&nbsp;</li>
 				{% if page.next.url %}
-				<div class="small-5 columns text-right"><a class="button small radius next" href="{{ site.url }}{{page.next.url}}">{{page.next.title}} &raquo;</a></div><!-- /.small-4.columns -->
+				<li><a href="{{ site.url }}{{page.next.url}}">{{page.next.title}} &rarr;</a></li>
 				{% endif %}
-			</div>
+			</ul>
 			</div><!--  /.page-meta -->
