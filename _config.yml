@@ -88,6 +88,12 @@ pagination:
   sort_reverse: true
 
 
+breadcrumbs:
+  root:
+    hide: true  # show breadcrumbs on root/home page
+    image: true # Show image or title text
+
+
 # The language setting is used in /includes/header.html for html-settings
 language: "ru"
 
