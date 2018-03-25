@@ -1,9 +1,14 @@
 <aside>
 	<div class="panel radius">
-		<h3>Новые публикации</h3>
-		{% include list-recent entries=5 %}
+		<h3>Ближайшие тренинги</h3>
+		<ul class="side-nav">
+		  {% for training in site.data.trainings %}
+		    <li><a href="{{ training.url }}">{{ training.title }}</a></li>
+		  {% endfor %}
+		</ul>
 	</div>
 	<div class="panel radius">
-		<h3>Ближайшие тренинги</h3>
+		<h3>Новые публикации</h3>
+		{% include list-recent entries=5 %}
 	</div>
 </aside>
