@@ -8,7 +8,8 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Selenium - автоматизация веб-приложений"
+title: "автоматизация веб-приложений"
+title_prefix: "Selenium: "
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
