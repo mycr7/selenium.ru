@@ -5,8 +5,8 @@ redirect_from: /news/189-webdriver-w3c-candidate-recommentation.html
 date: 2017-04-12 09:02:35.000000000 +03:00
 author: Алексей Баранцев
 image:
-  title: /images/news/w3c_cr.png
-  thumb: /images/news/w3c_cr.png
+  title: /images/news/w3c_cr.jpg
+  thumb: /images/news/w3c_cr.jpg
 teaser: "1 апреля (и это не шутка) стандарт W3C WebDriver завершил очередной этап
   и получил статус W3C Candidate Recommentation. Для успешного завершения этого этапа и перехода на
   следующий группа ревьюеров должна убедиться в том, что текст стандарта достаточно
