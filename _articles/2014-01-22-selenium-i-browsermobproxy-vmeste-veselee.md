@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'Selenium и BrowserMobProxy: вместе веселее!'
-joomla_id: 106
-joomla_url: selenium-i-browsermobproxy-vmeste-veselee
+redirect_from: /articles/106-selenium-i-browsermobproxy-vmeste-veselee.html
 date: 2014-01-22 11:26:02.000000000 +04:00
 author: Super User
 teaser: "Eсть некоторые «фичи», которых в Selenium нет и скорее всего не будет. Среди них: загрузка файлов с сервера,

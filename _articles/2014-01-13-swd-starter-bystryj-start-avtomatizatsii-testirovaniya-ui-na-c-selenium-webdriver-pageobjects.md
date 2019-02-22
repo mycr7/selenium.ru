@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "SWD.Starter: Быстрый старт автоматизации тестирования UI на C# + Selenium WebDriver + PageObjects"
-joomla_id: 104
-joomla_url: swd-starter-bystryj-start-avtomatizatsii-testirovaniya-ui-na-c-selenium-webdriver-pageobjects
+redirect_from: /articles/104-swd-starter-bystryj-start-avtomatizatsii-testirovaniya-ui-na-c-selenium-webdriver-pageobjects.html
 date: 2014-01-13 11:05:18.000000000 +04:00
 author: Super User
 image:

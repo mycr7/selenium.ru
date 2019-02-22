@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Поддержка Blackberry
-joomla_id: 107
-joomla_url: blackberry-support
+redirect_from: /news/107-blackberry-support.html
 date: 2014-02-19 12:32:10.000000000 +04:00
 author: Алексей Баранцев
 teaser: "В ноябре произошла утечка информации о новых функциональных возможностях, которые появятся в следующей версии мобильной операционной системы Blackberry. Среди прочего там упоминалось, что в Blackberry Developer Tools появится поддержка WebDriver."

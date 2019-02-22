@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'QtWebDriver: драйвер для Qt-приложений'
-joomla_id: 150
-joomla_url: qtwebdriver
+redirect_from: /blog/150-qtwebdriver.html
 date: 2015-07-06 07:33:53.000000000 +03:00
 author: Алексей Баранцев
 image:

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'Selenium WebDriver: полное руководство: отзыв тренера'
-joomla_id: 185
-joomla_url: selenium-webdriver
+redirect_from: /news/185-selenium-webdriver.html
 date: 2017-01-11 08:47:40.000000000 +03:00
 author: Алексей Баранцев
 teaser: "Перед новогодними каникулами завершила работу первая группа нового тренинга

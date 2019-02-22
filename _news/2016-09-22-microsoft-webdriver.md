@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Microsoft использует WebDriver для проверки расхода энергии браузерами
-joomla_id: 182
-joomla_url: microsoft-webdriver
+redirect_from: /news/182-microsoft-webdriver.html
 date: 2016-09-22 07:35:39.000000000 +03:00
 author: Алексей Баранцев
 image:

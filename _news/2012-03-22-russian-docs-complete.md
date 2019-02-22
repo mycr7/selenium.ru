@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Полностью завершен перевод документации
-joomla_id: 40
-joomla_url: russian-docs-complete
+redirect_from: /news/40-russian-docs-complete.html
 date: 2012-03-22 11:02:34.000000000 +04:00
 author: Алексей Баранцев
 teaser: "Наконец-то мы завершили и опубликовали перевод на русский язык официального руководства пользователя.

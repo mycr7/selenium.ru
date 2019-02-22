@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Разработка Selenium-тестов на TypeScript
-joomla_id: 151
-joomla_url: typescript
+redirect_from: /blog/151-typescript.html
 date: 2015-07-14 14:08:14.000000000 +03:00
 author: Алексей Баранцев
 image:

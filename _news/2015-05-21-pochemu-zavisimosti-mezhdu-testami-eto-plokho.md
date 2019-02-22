@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Почему зависимости между тестами это плохо
-joomla_id: 135
-joomla_url: pochemu-zavisimosti-mezhdu-testami-eto-plokho
+redirect_from: /news/135-pochemu-zavisimosti-mezhdu-testami-eto-plokho.html
 date: 2015-05-21 10:22:22.000000000 +03:00
 author: Алексей Баранцев
 teaser: "После того, как мы опубликовали рассказ о четырёх способах упорядочения тестов,

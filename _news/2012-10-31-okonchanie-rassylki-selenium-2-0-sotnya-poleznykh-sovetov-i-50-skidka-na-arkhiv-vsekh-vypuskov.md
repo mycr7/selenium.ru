@@ -1,9 +1,7 @@
 ---
 layout: page
-title: 'Окончание рассылки “Selenium 2.0: сотня полезных советов” и 50% скидка на
-  архив всех выпусков'
-joomla_id: 67
-joomla_url: okonchanie-rassylki-selenium-2-0-sotnya-poleznykh-sovetov-i-50-skidka-na-arkhiv-vsekh-vypuskov
+title: 'Окончание рассылки “Selenium 2.0: сотня полезных советов” и 50% скидка на архив всех выпусков'
+redirect_from: /news/67-okonchanie-rassylki-selenium-2-0-sotnya-poleznykh-sovetov-i-50-skidka-na-arkhiv-vsekh-vypuskov.html
 date: 2012-10-31 08:16:58.000000000 +04:00
 author: Алексей Баранцев
 teaser: "В течении полугода каждый рабочий день у нас выходит рассылка “Selenium 2.0: сотня полезных советов”. В настоящее время уже подготовлены все 100 выпусков. Сформирована огромная база актуальной справочной информации по Selenium. Автор рассылки – Баранцев Алексей, член команды разработки Selenium."

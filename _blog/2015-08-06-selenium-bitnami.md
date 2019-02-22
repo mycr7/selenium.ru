@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Selenium Bitnami нужен?
-joomla_id: 153
-joomla_url: selenium-bitnami
+redirect_from: /blog/153-selenium-bitnami.html
 date: 2015-08-06 09:15:55.000000000 +03:00
 author: Алексей Баранцев
 image:

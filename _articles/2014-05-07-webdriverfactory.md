@@ -1,8 +1,7 @@
 ---
 layout: page
 title: И ещё раз о том, как "правильно" запускать браузер
-joomla_id: 112
-joomla_url: webdriverfactory
+redirect_from: /articles/112-webdriverfactory.html
 date: 2014-05-07 12:01:17.000000000 +04:00
 author: Алексей Баранцев
 excerpt: Примерно раз в год я пишу статью про то, «как правильно запускать браузер» :)

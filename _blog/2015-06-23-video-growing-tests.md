@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'Как выращивать автотесты: видеозапись'
-joomla_id: 146
-joomla_url: video-growing-tests
+redirect_from: /blog/146-video-growing-tests.html
 date: 2015-06-23 19:55:36.000000000 +03:00
 author: Алексей Баранцев
 image:

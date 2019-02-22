@@ -1,8 +1,7 @@
 ---
 layout: page
 title: '"Почему FirefoxDriver кликает не туда?"'
-joomla_id: 159
-joomla_url: click-topmost-elemnt
+redirect_from: /blog/159-click-topmost-elemnt.html
 date: 2015-09-24 06:30:00.000000000 +03:00
 author: Алексей Баранцев
 image:

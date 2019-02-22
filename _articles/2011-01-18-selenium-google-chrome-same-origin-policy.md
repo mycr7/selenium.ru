@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'Selenium: как отключить same origin policy в браузере Google Chrome'
-joomla_id: 13
-joomla_url: selenium-google-chrome-same-origin-policy
+redirect_from: /articles/13-selenium-google-chrome-same-origin-policy.html
 date: 2011-01-18 11:10:00.000000000 +03:00
 author: Алексей Баранцев
 teaser: Недавно ученики моего курса Программирование для тестировщиков пришли ко мне с жалобой – тесты, которые у них успешно выполнялись в браузерах FireFox и Internet Explorer по непонятной причине падали в браузере Google Chrome. Когда я посмотрел, что происходит, мне показалось, что я вернулся лет на пять в прошлое – налицо были все симптомы проявления same origin policy, с которым давно уже все научились бороться при использовании браузеров Internet Explorer и FireFox.

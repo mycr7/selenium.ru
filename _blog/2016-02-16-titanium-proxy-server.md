@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'Titanium: встраиваемый прокси-сервер на C#'
-joomla_id: 169
-joomla_url: titanium-proxy-server
+redirect_from: /blog/169-titanium-proxy-server.html
 date: 2016-02-16 13:03:32.000000000 +03:00
 author: Алексей Баранцев
 image:

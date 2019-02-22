@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Как выращивать автотесты
-joomla_id: 142
-joomla_url: organic-test-growing
+redirect_from: /blog/142-organic-test-growing.html
 date: 2015-06-11 07:39:18.000000000 +03:00
 author: Алексей Баранцев
 image:

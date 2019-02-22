@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Почему в 3.3.1 перестали работать предикаты в явных ожиданиях?
-joomla_id: 187
-joomla_url: predicates-in-explicit-waits
+redirect_from: /blog/187-predicates-in-explicit-waits.html
 date: 2017-03-15 13:32:12.000000000 +03:00
 author: Алексей Баранцев
 image:

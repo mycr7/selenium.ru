@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "Selenium: Снятие скриншотов веб-страницы целиком"
-joomla_id: 12
-joomla_url: selenium-pageshots
+redirect_from: /articles/12-selenium-pageshots.html
 date: 2011-01-11 11:08:00.000000000 +03:00
 author: Алексей Баранцев
 teaser: Эта статья завершает серию, посвящённую снятию скриншотов при выполнении автотестов, разработанных с использованием Selenium и TestNG.

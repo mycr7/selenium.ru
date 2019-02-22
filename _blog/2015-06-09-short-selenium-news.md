@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Ещё один блог про Selenium? OMG...
-joomla_id: 139
-joomla_url: short-selenium-news
+redirect_from: /blog/139-short-selenium-news.html
 date: 2015-06-09 10:27:12.000000000 +03:00
 author: Алексей Баранцев
 image:

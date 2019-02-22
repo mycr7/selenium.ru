@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Прощайте, нативные события!
-joomla_id: 158
-joomla_url: goodbye-native-events
+redirect_from: /blog/158-goodbye-native-events.html
 date: 2015-09-21 06:17:08.000000000 +03:00
 author: Алексей Баранцев
 image:

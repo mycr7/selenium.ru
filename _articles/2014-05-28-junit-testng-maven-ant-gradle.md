@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Интеграция JUnit и TestNG со сборщиками Maven, Ant и Gradle
-joomla_id: 114
-joomla_url: junit-testng-maven-ant-gradle
+redirect_from: /articles/114-junit-testng-maven-ant-gradle.html
 date: 2014-05-28 07:07:43.000000000 +04:00
 author: Super User
 teaser: Через месяц мы запускаем новый онлайн-тренинг "Эффективное

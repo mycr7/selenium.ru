@@ -1,8 +1,7 @@
 ---
 layout: page
 title: '"Is Edge really that fast?"'
-joomla_id: 174
-joomla_url: is-edge-really-that-fast
+redirect_from: /blog/174-is-edge-really-that-fast.html
 date: 2016-04-12 09:25:37.000000000 +03:00
 author: Алексей Баранцев
 image:

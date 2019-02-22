@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'Selenium: как запускать Internet Explorer'
-joomla_id: 53
-joomla_url: how-to-start-internet-explorer
+redirect_from: /news/53-how-to-start-internet-explorer.html
 date: 2012-06-09 07:02:53.000000000 +04:00
 author: Алексей Баранцев
 teaser: Версия Selenium 2.22 ознаменовалась появлением новой схемы запуска браузера

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: В облаке BrowserStack завёлся Microsoft Edge
-joomla_id: 145
-joomla_url: browserstack-microsoft-edge
+redirect_from: /news/145-browserstack-microsoft-edge.html
 date: 2015-06-18 08:42:34.000000000 +03:00
 author: Алексей Баранцев
 image:

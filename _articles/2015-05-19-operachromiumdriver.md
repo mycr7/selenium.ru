@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Запуск Selenium-тестов в браузере Opera
-joomla_id: 133
-joomla_url: operachromiumdriver
+redirect_from: /articles/133-operachromiumdriver.html
 date: 2015-05-19 07:52:23.000000000 +03:00
 author: Алексей Баранцев
 image:

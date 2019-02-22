@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Какие браузеры поддерживает Selenium
-joomla_id: 98
-joomla_url: kakie-brauzery-podderzhivaet-selenium
+redirect_from: /news/98-kakie-brauzery-podderzhivaet-selenium.html
 date: 2013-12-03 07:01:26.000000000 +04:00
 author: Алексей Баранцев
 teaser: "Второй мини-доклад Алексея Баранцева на прошедшей онлайн-конференции Selen ConfeT&QA был посвящен тому, какие браузеры поддерживает Selenium в настоящий момент."

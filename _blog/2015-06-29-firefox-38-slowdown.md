@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Firefox 38.0.1 и "жёлтая скала"
-joomla_id: 148
-joomla_url: firefox-38-slowdown
+redirect_from: /blog/148-firefox-38-slowdown.html
 date: 2015-06-29 10:32:59.000000000 +03:00
 author: Алексей Баранцев
 image:

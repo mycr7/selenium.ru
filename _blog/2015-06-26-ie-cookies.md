@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Больше cookies для Internet Explorer!
-joomla_id: 147
-joomla_url: ie-cookies
+redirect_from: /blog/147-ie-cookies.html
 date: 2015-06-26 08:06:38.000000000 +03:00
 author: Алексей Баранцев
 image:

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: SauceLabs добавила Android, iOS и OS X в облако
-joomla_id: 61
-joomla_url: android-sauce-apple-sauce
+redirect_from: /news/61-android-sauce-apple-sauce.html
 date: 2012-09-05 07:02:46.000000000 +04:00
 author: Алексей Баранцев
 teaser: "SauceLabs сообщила о том, что в облаке Sauce появились новые конфигурации, базирующиеся на операционных системах iOS, OS X и Android. Доступны мобильные версии браузеров iPhone, iPad и Android, а также браузеры Safari, Firefox и Google Chrome на платформе OS X. Операционная система OS X работает в виртуализированном окружении KVM, мобильные браузеры работают в эмуляторах (не на физических устройствах)."

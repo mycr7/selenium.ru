@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Ghostdriver ищет нового хозяина
-joomla_id: 160
-joomla_url: ghostdriver-needs-help
+redirect_from: /blog/160-ghostdriver-needs-help.html
 date: 2015-09-30 07:23:48.000000000 +03:00
 author: Алексей Баранцев
 image:

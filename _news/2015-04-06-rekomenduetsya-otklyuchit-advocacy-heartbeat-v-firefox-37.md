@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Рекомендуется отключить Advocacy/heartbeat в Firefox 37
-joomla_id: 131
-joomla_url: rekomenduetsya-otklyuchit-advocacy-heartbeat-v-firefox-37
+redirect_from: /news/131-rekomenduetsya-otklyuchit-advocacy-heartbeat-v-firefox-37.html
 date: 2015-04-06 14:27:11.000000000 +03:00
 author: Алексей Баранцев
 teaser: "В версии Firefox 37 появилась новая \"фича\" Advocacy Heartbeat,

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Протоколирование в Selenium
-joomla_id: 70
-joomla_url: protokolirovanie-v-selenium
+redirect_from: /articles/70-protokolirovanie-v-selenium.html
 date: 2012-11-28 08:13:25.000000000 +04:00
 author: Super User
 teaser: Выступление Алексея Баранцева на онлайн-конференции Auto ConfeT&QA 2012.

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Каким сборщиком вы пользуетесь?
-joomla_id: 149
-joomla_url: builder-vote
+redirect_from: /blog/149-builder-vote.html
 date: 2015-07-03 10:04:32.000000000 +03:00
 author: Алексей Баранцев
 image:

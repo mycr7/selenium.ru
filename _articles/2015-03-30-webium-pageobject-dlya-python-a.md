@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Webium - PageObject для Python'a
-joomla_id: 130
-joomla_url: webium-pageobject-dlya-python-a
+redirect_from: /articles/130-webium-pageobject-dlya-python-a.html
 date: 2015-03-30 06:40:55.000000000 +03:00
 author: Super User
 teaser: В этой заметке речь пойдёт о новой библиотеке в open-source. Называется она Webium. Можно сказать, что это порт HtmlElements на Python.

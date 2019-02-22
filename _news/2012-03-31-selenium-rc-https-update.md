@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Тестируете на Selenium RC через HTTPS? Обновляйтесь до версии 2.19!
-joomla_id: 42
-joomla_url: selenium-rc-https-update
+redirect_from: /news/42-selenium-rc-https-update.html
 date: 2012-03-31 16:44:36.000000000 +04:00
 author: Алексей Баранцев
 teaser: "Если вы используете Selenium RC для тестирования приложений с использованием HTTPS, вам необходимо обновить Selenium до версии 2.19 или более новой."

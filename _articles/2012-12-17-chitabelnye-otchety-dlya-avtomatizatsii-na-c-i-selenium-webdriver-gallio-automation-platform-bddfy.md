@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Читабельные отчеты для автоматизации на C# и Selenium Webdriver (Gallio Automation Platform + BDDfy)
-joomla_id: 73
-joomla_url: chitabelnye-otchety-dlya-avtomatizatsii-na-c-i-selenium-webdriver-gallio-automation-platform-bddfy
+redirect_from: /articles/73-chitabelnye-otchety-dlya-avtomatizatsii-na-c-i-selenium-webdriver-gallio-automation-platform-bddfy.html
 date: 2012-12-17 10:11:54.000000000 +04:00
 author: Super User
 teaser: Публикуем доклад Дмитрия Жария с прошедшей осенью очередной онлайн-конференции Auto ConfeT&QA.

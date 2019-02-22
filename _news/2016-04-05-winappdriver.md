@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Windows Application Driver от Microsoft
-joomla_id: 173
-joomla_url: winappdriver
+redirect_from: /news/173-winappdriver.html
 date: 2016-04-05 05:37:28.000000000 +03:00
 author: Алексей Баранцев
 teaser: "Компания Microsoft выпустила первую бета-версию драйвера для работы

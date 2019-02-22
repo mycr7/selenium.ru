@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'Infer: новый инструмент статического анализа кода от Facebook'
-joomla_id: 144
-joomla_url: infer-facebook
+redirect_from: /blog/144-infer-facebook.html
 date: 2015-06-15 07:30:33.000000000 +03:00
 author: Алексей Баранцев
 image:

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Вышло обновление Selenium Builder с поддержкой Firefox 38
-joomla_id: 134
-joomla_url: selenium-builder-firefox-38
+redirect_from: /news/134-selenium-builder-firefox-38.html
 date: 2015-05-20 05:33:25.000000000 +03:00
 author: Алексей Баранцев
 teaser: "Пользователи Selenium Builder могли заметить, что после обновления браузера Firefox

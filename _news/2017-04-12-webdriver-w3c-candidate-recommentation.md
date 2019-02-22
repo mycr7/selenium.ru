@@ -1,8 +1,7 @@
 ---
 layout: page
 title: WebDriver получил статус W3C Candidate Recommentation
-joomla_id: 189
-joomla_url: webdriver-w3c-candidate-recommentation
+redirect_from: /news/189-webdriver-w3c-candidate-recommentation.html
 date: 2017-04-12 09:02:35.000000000 +03:00
 author: Алексей Баранцев
 image:

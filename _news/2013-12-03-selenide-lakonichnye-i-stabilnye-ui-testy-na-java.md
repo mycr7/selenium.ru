@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'Selenide: лаконичные и стабильные UI тесты на Java'
-joomla_id: 99
-joomla_url: selenide-lakonichnye-i-stabilnye-ui-testy-na-java
+redirect_from: /news/99-selenide-lakonichnye-i-stabilnye-ui-testy-na-java.html
 date: 2013-12-03 07:02:15.000000000 +04:00
 author: Алексей Баранцев
 teaser: "Как обычно после очередной онлайн-конференции серии ConfeT&QA мы публикуем лучший доклад.

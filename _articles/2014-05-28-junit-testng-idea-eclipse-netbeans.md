@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Интерация JUnit и TestNG со средами разработки IDEA, Eclipse и NetBeans
-joomla_id: 115
-joomla_url: junit-testng-idea-eclipse-netbeans
+redirect_from: /articles/115-junit-testng-idea-eclipse-netbeans.html
 date: 2014-05-28 09:05:13.000000000 +04:00
 author: Super User
 teaser: Через месяц мы запускаем новый онлайн-тренинг "Эффективное

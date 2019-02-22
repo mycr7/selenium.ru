@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'Selenium: от инструмента к стандарту'
-joomla_id: 103
-joomla_url: selenium-ot-instrumenta-k-standartu
+redirect_from: /news/103-selenium-ot-instrumenta-k-standartu.html
 date: 2014-01-12 19:52:21.000000000 +04:00
 author: Алексей Баранцев
 teaser: "Осенью 2013 года я дважды на конференциях (сначала SECR, потом ConfeT&QA) рассказывал о том, как происходило развитие инструмента Selenium и каково текущее состояние дел. Предлагаю вашему вниманию запись, сделанную на второй из упомянутых конференций."

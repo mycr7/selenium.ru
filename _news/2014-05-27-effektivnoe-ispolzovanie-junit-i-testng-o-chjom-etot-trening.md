@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'Эффективное использование JUnit и TestNG: о чём этот тренинг?'
-joomla_id: 113
-joomla_url: effektivnoe-ispolzovanie-junit-i-testng-o-chjom-etot-trening
+redirect_from: /news/113-effektivnoe-ispolzovanie-junit-i-testng-o-chjom-etot-trening.html
 date: 2014-05-27 15:34:41.000000000 +04:00
 author: Super User
 teaser: "Через месяц мы запускаем новый онлайн-тренинг \"Эффективное

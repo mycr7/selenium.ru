@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Firefox 55 и реновация Selenium IDE
-joomla_id: 192
-joomla_url: firefox-55-and-selenium-ide-renovation
+redirect_from: /news/192-firefox-55-and-selenium-ide-renovation.html
 date: 2017-08-25 10:32:53.000000000 +03:00
 author: Алексей Баранцев
 image:

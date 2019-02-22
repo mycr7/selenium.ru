@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Поддержка Selenium в Borland Silk Central
-joomla_id: 156
-joomla_url: borland-silk-central-selenium
+redirect_from: /blog/156-borland-silk-central-selenium.html
 date: 2015-08-31 14:27:12.000000000 +03:00
 author: Алексей Баранцев
 teaser: "Оказывается, в инструмент Borland Silk Central добавлена поддержка выполнения тестов, разработанных с использованием Selenium."

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Что такое Selenium?
-joomla_id: 62
-joomla_url: what-is-selenium
+redirect_from: /articles/62-what-is-selenium.html
 date: 2012-09-24 17:13:30.000000000 +04:00
 author: Алексей Баранцев
 teaser: Время от времени мне приходится распутывать терминологические хитросплетения, связанные с употреблением словосочетаний, в которых встречается слово Selenium – Selenium 2.0, Selenium IDE, Selenium RC, Selenium WebDriver, Selenium Server, Selenium Grid. Путаница возникает во многом из-за того, что нигде нет чёткого описания всех этих терминов на одной страничке, и я постараюсь восполнить этот информационный пробел.

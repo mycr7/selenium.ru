@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'WebDriver: первый публичный черновик стандарта W3C'
-joomla_id: 54
-joomla_url: webdriver-first-public-working-draft
+redirect_from: /news/54-webdriver-first-public-working-draft.html
 date: 2012-07-17 13:16:32.000000000 +04:00
 author: Алексей Баранцев
 teaser: Неделю назад на сайте W3C появилось официальное объявление о том, что

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Повышаем надёжность Selenium тестов через JavaScript
-joomla_id: 163
-joomla_url: selenium-javascript
+redirect_from: /articles/163-selenium-javascript.html
 date: 2015-10-12 08:35:37.000000000 +03:00
 author: Super User
 teaser: "Выступление Игоря Хрола на онлайн-конференции Selen ConfeT&QA"

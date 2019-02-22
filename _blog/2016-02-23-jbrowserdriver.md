@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 'jBrowserDriver: альтернатива для PhantomJS'
-joomla_id: 171
-joomla_url: jbrowserdriver
+redirect_from: /blog/171-jbrowserdriver.html
 date: 2016-02-23 08:46:55.000000000 +03:00
 author: Алексей Баранцев
 image:

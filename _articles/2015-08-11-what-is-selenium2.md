@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Вы знаете, что такое Selenium? А вот и нет!
-joomla_id: 154
-joomla_url: what-is-selenium2
+redirect_from: /articles/154-what-is-selenium2.html
 date: 2015-08-11 09:41:38.000000000 +03:00
 author: Super User
 teaser: "Что такое Selenium? Это программируемый драйвер браузера. Что? Ничего непонятно? Тогда посмотрите вот этот небольшой ролик, записанный Алексеем Баранцевым в процессе подготовки тренинга \"Selenium: стартовый уровень\"."

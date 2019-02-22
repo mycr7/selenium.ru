@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Как запускать Internet Explorer
-joomla_id: 52
-joomla_url: how-to-start-internet-explorer
+redirect_from: /articles/52-how-to-start-internet-explorer.html
 date: 2012-06-08 17:56:56.000000000 +04:00
 author: Алексей Баранцев
 teaser: "Эта статья первоначально была написана как один из выпусков рассылки \"Selenium 2.0: сотня полезных советов\", но видя количество однотипных вопросов, которые после выхода версии Selenium 2.22 задаются в разных местах, мы решили опубликовать этот выпуск в виде статьи."

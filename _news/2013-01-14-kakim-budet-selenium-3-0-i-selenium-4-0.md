@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Каким будет Selenium 3.0 и Selenium 4.0?
-joomla_id: 75
-joomla_url: kakim-budet-selenium-3-0-i-selenium-4-0
+redirect_from: /news/75-kakim-budet-selenium-3-0-i-selenium-4-0.html
 date: 2013-01-14 09:12:59.000000000 +04:00
 author: Алексей Баранцев
 teaser: "Опубликован доклад Алексея Баранцева с конференции SQA Days 12 \"Каким

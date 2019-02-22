@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Изменения в линейке тренингов про Selenium
-joomla_id: 179
-joomla_url: selenium-trainings
+redirect_from: /news/179-selenium-trainings.html
 date: 2016-08-09 14:40:21.000000000 +03:00
 author: Алексей Баранцев
 teaser: "В отличие от \"теоретических\" курсов по основам тестирования, \"инструментальные\" тренинги очень быстро устаревают.

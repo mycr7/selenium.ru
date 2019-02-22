@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Изменение семантики операции getCurrentUrl в Selenium
-joomla_id: 157
-joomla_url: get-current-url
+redirect_from: /blog/157-get-current-url.html
 date: 2015-09-16 06:29:24.000000000 +03:00
 author: Алексей Баранцев
 image:

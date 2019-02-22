@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Проблема совместимости с Firefox 47 решена
-joomla_id: 177
-joomla_url: firefox47-issue-resolved
+redirect_from: /news/177-firefox47-issue-resolved.html
 date: 2016-06-30 07:48:27.000000000 +03:00
 author: Алексей Баранцев
 image:

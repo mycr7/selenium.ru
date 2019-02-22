@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Selenium IDE перестал работать в Firefox 43
-joomla_id: 165
-joomla_url: selenium-ide-firefox-43
+redirect_from: /news/165-selenium-ide-firefox-43.html
 date: 2015-12-22 10:55:28.000000000 +03:00
 author: Алексей Баранцев
 image:
