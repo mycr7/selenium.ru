@@ -1,12 +1,36 @@
-- title: Training1
-  url: "url1"
-  date: date1
+- title: "Автоматизация функционального тестирования"
+  url: http://software-testing.ru/edu/1-schedule/234-functional-test-automation
+  date: 22 февраля 2019
 
-- title: Training2
-  url: "url2"
-  date: date2
+- title: "Тестирование веб-приложений 2.0"
+  url: http://software-testing.ru/edu/1-schedule/189-web
+  date: 22 февраля 2019
 
-- title: Training3
-  url: "url3"
-  date: date3
-  
+- title: "Selenium WebDriver: полное руководство"
+  url: http://software-testing.ru/edu/1-schedule/242-selenium-webdriver
+  date: 1 марта 2019
+
+- title: "Программирование на Java для тестировщиков"
+  url: http://software-testing.ru/edu/1-schedule/1-java-for-testers
+  date: 1 марта 2019
+
+- title: "Практикум по тест-дизайну 2.0"
+  url: http://software-testing.ru/edu/1-schedule/46-test-design
+  date: 12 марта 2019
+
+- title: "Selenium IDE 3: стартовый уровень"
+  url: http://software-testing.ru/edu/1-schedule/185-selenium
+  date: 15 марта 2019
+
+- title: "Программирование на Python для тестировщиков"
+  url: http://software-testing.ru/edu/1-schedule/233-python
+  date: 15 марта 2019
+
+- title: "Программирование на C# для тестировщиков"
+  url: http://software-testing.ru/edu/1-schedule/226-csharp-for-testers
+  date: 22 марта 2019
+
+- title: "Тестирование производительности (JMeter)"
+  url: http://software-testing.ru/edu/1-schedule/19-performance-testing-jmeter
+  date: 22 марта 2019
+
