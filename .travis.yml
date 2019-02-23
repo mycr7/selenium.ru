@@ -1,8 +1,9 @@
 dist: trusty
 sudo: required
+language: ruby
 install:
 - sudo pip install requests lxml cssselect
-- sudo bundle install
+- bundle install
 script:
 - bundle exec jekyll build
 deploy:
