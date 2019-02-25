@@ -5,12 +5,11 @@ install:
   - sudo pip install requests lxml cssselect
   - bundle install
 script:
+  - python update_trainings.py
   - bundle exec jekyll build
-  - pwd
-  - ls
-  - ls _site
 deploy:
   provider: pages
   skip_cleanup: true
   github-token: $GITHUB_TOKEN
   local-dir: _site
+  fqdn: www.webdriver.ru
