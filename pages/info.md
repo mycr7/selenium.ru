@@ -1,7 +1,5 @@
 ---
 layout: page
-title: "Info"
-subheadline: "About Your Project"
-teaser: ""
+title: "О нас"
 permalink: /info/
 ---

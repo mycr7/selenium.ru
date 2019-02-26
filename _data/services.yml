@@ -1,8 +1,4 @@
-- menu_name: "Связь"
-
-- name: "Контакты"
-  url: "/contact/"
-  title: "Контакты"
+- menu_name: "RSS/Atom"
 
 - name: "RSS"
   url: "/feed.xml"
