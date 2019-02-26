@@ -5,7 +5,7 @@ install:
   - sudo pip install requests lxml cssselect
   - bundle install
 script:
-  - python update_trainings.py
+  - python3 update_trainings.py
   - bundle exec jekyll build
 deploy:
   provider: pages
