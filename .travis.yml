@@ -1,13 +1,12 @@
 dist: trusty
 sudo: required
-language: python
-python:
-  - "3.6"
+language: ruby
 install:
-  - sudo pip install requests lxml cssselect
+  - sudo apt-get -y install python3-pip
+  - sudo pip3 install requests lxml cssselect
   - bundle install
 script:
-  - python update_trainings.py
+  - python3 update_trainings.py
   - bundle exec jekyll build
 deploy:
   provider: pages
