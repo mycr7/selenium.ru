@@ -75,6 +75,10 @@ collections:
     output: true
     permalink: /articles/:path/
     hr_name: Статьи
+  kb:
+    output: true
+    permalink: /kb/:path/
+    hr_name: База знаний
 
 
 pagination:
