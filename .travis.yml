@@ -3,12 +3,10 @@ language: ruby
 before-install:
   - pyenv global 3.6
 install:
-  - sudo pip install requests lxml cssselect
+  - sudo pip3 install requests lxml cssselect
   - bundle install
 script:
-  - python --version
-  - python3 --version
-  - python update_trainings.py
+  - python3 update_trainings.py
   - bundle exec jekyll build
 deploy:
   provider: pages
