@@ -1,8 +1,6 @@
-dist: trusty
-sudo: required
+dist: xenial
 language: ruby
 install:
-  - sudo apt-get -y install python3-pip
   - sudo pip3 install requests lxml cssselect
   - bundle install
 script:
