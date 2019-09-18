@@ -1,8 +1,8 @@
 dist: xenial
 language: ruby
 before_install:
-  - pyenv install 3.6
-  - pyenv global 3.6
+  - pyenv install 3.6.3
+  - pyenv global 3.6.3
 install:
   - sudo pip install requests lxml cssselect
   - bundle install
