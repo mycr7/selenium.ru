@@ -17,9 +17,9 @@
   url: "/blog/"
   side: left
 
-- title: База знаний
-  url: "/kb/"
-  side: left
+#- title: База знаний
+#  url: "/kb/"
+#  side: left
 
 #- title: Документация
 #  url: "/docs/"
