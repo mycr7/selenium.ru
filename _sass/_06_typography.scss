@@ -55,14 +55,16 @@ p {
     -ms-hyphens: $body-hyphenation;
     hyphens: $body-hyphenation;
 }
-p a,
-article a {
-    font-weight: bold;
+p a:hover,
+h2 a:hover,
+article a:hover {
     border-bottom: 1px dotted;
 }
-p a:hover,
+article a {
+    border-bottom: 1px dotted;
+}
 article a:hover {
-    border-bottom: 2px solid;
+    border-bottom: 1px solid;
 }
 p a.button,
 .button,
