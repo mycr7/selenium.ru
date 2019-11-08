@@ -292,6 +292,9 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       #{$default-float}: 0;
       position: relative;
       width: auto;
+      max-width: 62.5rem;
+      margin-left: auto;
+      margin-right: auto;
       @include single-transition($default-float, $topbar-transition-speed);
 
       ul {
