@@ -71,10 +71,6 @@ collections:
     output: true
     permalink: /blog/:path/
     hr_name: Блог
-  articles:
-    output: true
-    permalink: /articles/:path/
-    hr_name: Статьи
   kb:
     output: true
     permalink: /kb/:path/
@@ -156,16 +152,6 @@ defaults:
     scope:
       path: ""
       type: "blog"
-    values:
-      show_meta: true   # Show metadata for all posts
-      sidebar: right       # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: "Алексей Баранцев"     # Default author for posts
-      breadcrumb: true
-  -
-    scope:
-      path: ""
-      type: "articles"
     values:
       show_meta: true   # Show metadata for all posts
       sidebar: right       # Possible values › left, right › by default there will be no sidebar

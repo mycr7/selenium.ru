@@ -9,10 +9,6 @@
   url: "/news/"
   side: left
 
-- title: Статьи
-  url: "/articles/"
-  side: left
-
 - title: Блог
   url: "/blog/"
   side: left
@@ -37,17 +33,6 @@
   url: "http://software-testing.ru/forum/index.php?/forum/129-selenium-functional-testing/"
   side: left
 
-#
-#   Navigation to the right › side: right
-#
-#- title: "Info"
-#  url: "/info/"
-#  side: right
-
 - title: Поиск
   url: "/search/"
   side: right
-
-#- title: "Contact"
-#  url: "/contact/"
-#  side: right

@@ -3,6 +3,7 @@ layout: blog
 title: Блог
 teaser: "This is the Blog Template."
 permalink: /blog/
+redirect_from: /articles/
 pagination:
   enabled: true
   collection: blog
