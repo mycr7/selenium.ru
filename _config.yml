@@ -19,7 +19,7 @@ head: "Selenium WebDriver"
 subhead: "автоматизация веб-приложений"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Про Selenium на русском языке. Новости, документация, статьи, тренинги."
+description: "Пишем про Selenium на русском языке"
 
 # Main author of the website
 # See > authors.yml
