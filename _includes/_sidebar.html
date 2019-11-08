@@ -8,8 +8,7 @@
 		<ul class="side-nav">
 		  {% for training in site.data.trainings %}
 		    <li>
-					<span class="course-title"><a href="{{ training.url }}">{{ training.title }}</a></span>
-					<span class="course-date">{{ training.date }}</span>
+					<span class="course-title"><a href="{{ training.url }}"><time class="icon-calendar date"> {{ training.date }}</time><br>{{ training.title }}</a></span>
 				</li>
 		  {% endfor %}
 		</ul>
