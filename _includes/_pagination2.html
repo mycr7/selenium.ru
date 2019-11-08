@@ -1,6 +1,6 @@
 <div class="home">
 
-  <h1 class="page-heading"><b>{% if page.autopages %}{{page.autopages.display_name}}{% endif %}</b></h1>
+  {% if page.autopages %}<h1 class="page-heading"><b>{{page.autopages.display_name}}</b></h1>{% endif %}
 
   {{ content | markdownify }}
 
