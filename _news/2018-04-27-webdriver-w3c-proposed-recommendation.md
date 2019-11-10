@@ -7,7 +7,7 @@ author: Алексей Баранцев
 image:
   title: /images/news/w3c_cr.jpg
   thumb: /images/news/w3c_cr.jpg
-teaser: 26 апреля стандарт W3C WebDriver завершил очередной этап и получил статус W3C Proposed Recommendation.
+teaser: 26 апреля стандарт W3C WebDriver завершил очередной этап и получил статус W3C Proposed Recommendation
 category: Новости
 ---
 26 апреля [стандарт W3C WebDriver](https://www.w3.org/TR/webdriver/) завершил очередной этап и получил статус W3C
@@ -35,3 +35,6 @@ Proposed Recommendation.
 
 Предполагается, что в течение месяца или двух выйдет еще 3-4 релиза в серии 3.x, после чего будет выпущена версия
 Selenium 4.0, одновременно с переходом стандарта в следующий статус Recommendation.
+
+{% include alert info='**UPDATE (ноябрь 2019):** Конечно же версия 4.0 одновременно с утверждением стандарта не появилась,
+это был избыточный оптимизм. Но во всяком случае работа над ней началась.' %}

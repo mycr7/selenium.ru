@@ -7,15 +7,17 @@ author: Алексей Баранцев
 image:
   title: /images/news/deconstruction.jpg
   thumb: /images/news/deconstruction.jpg
-teaser: "Для пользователей Selenium IDE наступили трудные времена -- он не работает в Firefox
-  55 и новее... Что делать? Установить Firefox ESR 52, в этой версии Selenium IDE пока работает."
+teaser: Для пользователей Selenium IDE наступили трудные времена -- он не работает в Firefox
+  55 и новее... Что делать? Установить Firefox ESR 52, в этой версии Selenium IDE пока работает
 category: Новости
 ---
+{% include alert info='**UPDATE (ноябрь 2019):** Всё написанное ниже уже неактуально, потому что реновация Selenium IDE завершилась, [обновленная реализация Selenium IDE](https://www.seleniumhq.org/selenium-ide/) работает в Firefox и Chrome последних версий.' %}
+
 Для пользователей Selenium IDE наступили трудные времена -- он не работает в Firefox 55 и новее...
 
 **Что делать?**
 
-Установить [Firefox ESR 52](https://www.mozilla.org/en-US/firefox/organizations/faq/), в этой версии Selenium IDE пока работает. Extended Support Release (ESR) -- это специальная релизная ветвь с редкими обновлениями для консервативных пользователей. Версия 52 будет существовать в этой ветви до 6 марта 2018 года.
+Установить [Firefox ESR 52](https://archive.mozilla.org/pub/firefox/releases/52.9.0esr/), это последняя версия, в которой работает Selenium IDE.
 
 К сожалению, даже эта версия не может установить Selenium IDE с [официальной страницы](https://addons.mozilla.org/ru/firefox/addon/selenium-ide/) (написано, что она устаревшая), но зато можно пройти по [прямой ссылке на файл дополнения](https://addons.mozilla.org/firefox/downloads/latest/selenium-ide/addon-2079-latest.xpi) (она ведет на тот же самый официальный сайт, никаких подделок), и загруженное расширение успешно установится.
 

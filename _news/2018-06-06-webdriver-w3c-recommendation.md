@@ -6,12 +6,12 @@ author: Алексей Баранцев
 image:
   title: /images/news/w3c_cr.jpg
   thumb: /images/news/w3c_cr.jpg
-teaser: 5 июня  2018 года стандарт W3C WebDriver действительно стал стандартом, он получил статус W3C Recommendation.
+teaser: 5 июня  2018 года стандарт W3C WebDriver действительно стал стандартом, он получил статус W3C Recommendation
 category: Новости
 ---
 5 июня 2018 года [стандарт W3C WebDriver](https://www.w3.org/TR/webdriver/) действительно стал стандартом, он получил статус W3C Recommendation.
 
-Идея превратить WebDriver в стандарт [появилась весной 2011 года](https://groups.google.com/forum/#!searchin/selenium-developers/standard|sort:date/selenium-developers/tX4VpvTGgyo/e77i5PC__RIJ). Примерно через полгода, 13 октября 2011 года, под эгидой W3C была создана рабочая группа [Browser Testing and Tools Working Group](https://www.w3.org/2016/05/browser-testing-tools-charter.html).
+Идея превратить WebDriver в стандарт [появилась весной 2011 года](https://groups.google.com/d/topic/selenium-developers/tX4VpvTGgyo/discussion). Примерно через полгода, 13 октября 2011 года, под эгидой W3C была создана рабочая группа [Browser Testing and Tools Working Group](https://www.w3.org/2016/05/browser-testing-tools-charter.html).
 
 Написание первого варианта спецификации заняло около двух лет. Его текст не удовлетворял требованиям W3C (стандарты пишутся по определённым канонам), не покрывал полностью API WebDriver, но всё же по результатам этого этапа было принято решение рабочую группу не расформировывать, а продолжить работу над созданием стандарта.
 
