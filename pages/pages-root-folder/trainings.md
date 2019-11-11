@@ -3,6 +3,7 @@ layout: page
 title: Тренинги про Selenium
 teaser: "Тренинги по автоматизации тестирования веб-приложений"
 permalink: /trainings/
+redirect_from: /trainings.html
 ---
 <style>
   div.training { border: 1px solid grey; padding: 0 10px; margin-bottom: 1em; }

@@ -3,6 +3,7 @@ layout: page
 title: Индивидуальные консультации
 teaser: Индивидуальные консультации по использованию Selenium
 permalink: /consulting/
+redirect_from: /consulting.html
 ---
 Вы только-только приступаете к автоматизации с использованием Selenium и не знаете с чего начать?
 
