@@ -27,7 +27,7 @@ author: barancev
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://www.webdriver.ru'
+url: 'https://webdriver.ru'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -40,7 +40,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://www.webdriver.ru/images/'
+urlimg: 'https://webdriver.ru/images/'
 
 
 # Logo size is 600x80 pixels
