@@ -12,4 +12,4 @@ deploy:
   skip_cleanup: true
   github-token: $GITHUB_TOKEN
   local-dir: _site
-  fqdn: www.webdriver.ru
+  fqdn: webdriver.ru
