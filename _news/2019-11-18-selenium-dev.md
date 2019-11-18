@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Запущен новый сайт selenium.dev
-date: 
+date: 2019-11-18 15:59:00.000000000 +03:00
 author: Алексей Баранцев
 image:
   title: /images/news/selenium_dev.jpg
