@@ -283,3 +283,12 @@ sass:
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
+
+# Search
+algolia:
+  application_id: 'EL0PR1PRS6'
+  index_name: 'webdriver.ru'
+  search_only_api_key: '2b10970fafd0a54c2bda15c833bc7551'
+  files_to_exclude:
+    - /pages/blog_archive.html
+    - /pages/news_archive.html
